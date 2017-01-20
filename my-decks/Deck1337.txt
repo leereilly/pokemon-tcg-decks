@@ -14,7 +14,7 @@
 * 2 Hoopa STS 51
 * 1 Hoopa-EX PR-XY XY85
 
-##Trainer Cards - 25
+##Trainer Cards - 26
 
 * 1 Misty's Determination EVO 108
 * 2 Evosoda GEN 62
@@ -36,10 +36,11 @@
 * 1 Professor Sycamore PHF 101
 * 1 VS Seeker PHF 109
 * 1 Cilan NXD 86
+* 1 Brock's Grit EVO 74
 
-##Energy - 16
+##Energy - 15
 
-* 8 Lightning Energy XYEnergy 6
+* 7 Lightning Energy XYEnergy 6
 * 8 Psychic Energy XYEnergy 8
 
 Total Cards - 60
