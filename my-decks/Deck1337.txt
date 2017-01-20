@@ -2,9 +2,9 @@
 
 ##Pokémon - 19
 
-* 1 Galvantula STS 42
+* 2 Galvantula STS 42
 * 2 Joltik STS 41
-* 3 Mareep STS 38
+* 2 Mareep STS 38
 * 2 Flaaffy STS 39
 * 2 Ampharos STS 40
 * 1 Alakazam-EX FAC 25
