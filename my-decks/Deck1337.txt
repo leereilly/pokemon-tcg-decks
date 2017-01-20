@@ -16,8 +16,9 @@
 
 ##Trainer Cards - 26
 
+* 1 Brock's Grit EVO 74
 * 1 Misty's Determination EVO 108
-* 2 Evosoda GEN 62
+* 3 Evosoda GEN 62
 * 1 Giovanni's Scheme BKT 138
 * 1 Reserved Ticket BKT 147
 * 2 Lysandre FLF 90
@@ -26,7 +27,6 @@
 * 2 Ninja Boy STS 103
 * 1 Hard Charm XY 119
 * 1 Fisherman BKT 136
-* 1 Colress PLS 118
 * 2 Tierno BKP 112
 * 1 Energy Pouch FAC 97
 * 1 Potion BKP 106
@@ -36,7 +36,6 @@
 * 1 Professor Sycamore PHF 101
 * 1 VS Seeker PHF 109
 * 1 Cilan NXD 86
-* 1 Brock's Grit EVO 74
 
 ##Energy - 15
 
