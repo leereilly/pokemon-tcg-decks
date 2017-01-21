@@ -7,12 +7,11 @@
 * 2 Mareep STS 38
 * 2 Flaaffy STS 39
 * 2 Ampharos STS 40
-* 1 Alakazam-EX FAC 25
-* 1 M Alakazam-EX FAC 26
 * 2 Drifloon STS 46
 * 2 Drifblim STS 47
 * 2 Hoopa STS 51
 * 1 Hoopa-EX PR-XY XY85
+* 2 Mewtwo EVO 51
 
 ##Trainer Cards - 26
 
