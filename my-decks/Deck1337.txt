@@ -1,28 +1,29 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 19
+##Pokémon - 20
 
 * 2 Galvantula STS 42
 * 2 Joltik STS 41
 * 2 Mareep STS 38
 * 2 Flaaffy STS 39
 * 2 Ampharos STS 40
+* 1 Raikou BKT 55
+* 1 Stunfisk BKT 56
 * 2 Drifloon STS 46
 * 2 Drifblim STS 47
 * 2 Hoopa STS 51
 * 1 Hoopa-EX PR-XY XY85
-* 2 Mewtwo EVO 51
+* 1 Mewtwo EVO 51
 
-##Trainer Cards - 26
+##Trainer Cards - 25
 
 * 1 Brock's Grit EVO 74
 * 1 Misty's Determination EVO 108
 * 3 Evosoda GEN 62
 * 1 Giovanni's Scheme BKT 138
-* 1 Reserved Ticket BKT 147
 * 2 Lysandre FLF 90
 * 1 Professor's Letter BKT 146
-* 2 Energy Retrieval PRC 126
+* 2 Super Rod BKT 149
 * 2 Ninja Boy STS 103
 * 1 Hard Charm XY 119
 * 1 Fisherman BKT 136
