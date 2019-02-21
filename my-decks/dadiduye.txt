@@ -2,9 +2,9 @@
 
 ##Pokémon - 19
 
+* 1 Ditto {*} LOT 154
 * 2 Eevee SUM 101
 * 1 Celebi & Venusaur-GX TEU 182
-* 1 Morelull SUM 16
 * 3 Rowlet SUM 9
 * 1 Shuckle-GX LOT 195
 * 3 Dartrix SUM 10
@@ -13,29 +13,27 @@
 * 4 Decidueye-GX SUM 12
 * 1 Tapu Lele-GX GRI 60
 
-##Trainer Cards - 28
+##Trainer Cards - 27
 
-* 1 Brock's Grit TEU 172
+* 2 Multi Switch GRI 129
 * 1 Viridian Forest TEU 156
 * 1 Buff Padding TEU 136
 * 4 Lillie SUM 147
-* 3 Pokémon Communication TEU 152
+* 2 Pokémon Communication TEU 152
 * 1 Energy Retrieval SLG 59
 * 1 Po Town BUS 121
-* 3 Rare Candy SUM 129
+* 2 Rare Candy SUM 129
 * 1 Aether Paradise Conservation Area GRI 116
 * 1 Switch SUM 132
-* 1 Choice Helmet LOT 169
-* 1 Cynthia UPR 119
+* 3 Cynthia UPR 119
 * 1 Guzma BUS 115
-* 1 Wondrous Labyrinth {*} TEU 158
 * 4 Ultra Ball SUM 135
 * 1 Life Forest {*} LOT 180
 * 2 Max Potion GRI 128
 
-##Energy - 13
+##Energy - 14
 
-* 3 Double Colorless Energy SUM 136
+* 4 Double Colorless Energy SUM 136
 * 10 Grass Energy  1
 
 Total Cards - 60
