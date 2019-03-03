@@ -16,10 +16,10 @@
 * 1 Vileplume BUS 6
 * 1 Tapu Lele-GX GRI 60
 
-##Trainer Cards - 26
+##Trainer Cards - 27
 
 * 1 Brock's Grit TEU 172
-* 1 Viridian Forest TEU 156
+* 2 Net Ball LOT 187
 * 1 Buff Padding TEU 136
 * 4 Lillie SUM 147
 * 3 Pokémon Communication TEU 152
@@ -34,10 +34,10 @@
 * 1 Life Forest {*} LOT 180
 * 2 Max Potion GRI 128
 
-##Energy - 13
+##Energy - 12
 
 * 3 Double Colorless Energy SUM 136
-* 10 Grass Energy  1
+* 9 Grass Energy  1
 
 Total Cards - 60
 
