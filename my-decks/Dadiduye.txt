@@ -19,7 +19,6 @@
 ##Trainer Cards - 27
 
 * 1 Brock's Grit TEU 172
-* 2 Net Ball LOT 187
 * 1 Buff Padding TEU 136
 * 4 Lillie SUM 147
 * 3 Pokémon Communication TEU 152
@@ -30,9 +29,11 @@
 * 1 Cynthia UPR 119
 * 1 Guzma BUS 115
 * 1 Wondrous Labyrinth {*} TEU 158
-* 4 Ultra Ball SUM 135
+* 3 Ultra Ball SUM 135
+* 2 Net Ball LOT 187
 * 1 Life Forest {*} LOT 180
 * 2 Max Potion GRI 128
+* 1 Professor Elm’s Lecture LOT 188
 
 ##Energy - 12
 
